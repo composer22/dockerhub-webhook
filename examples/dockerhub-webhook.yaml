@@ -1,0 +1,17 @@
+hostname: 0.0.0.0
+port: 8080
+profile-port: 6060
+max-conn: 0
+max-procs: 0
+debug: false
+# Comma delim.
+valid-tokens: "cLTCK4A(ScGAm)g5Bf4U,A0l0yQe;X{&[AmAoSIUNTr^x,2YDl(11?Ph8O%|q_5kNmf0MfLLkPE3jq8"
+namespace: development
+alive-path: /v1.0/irn7pnizaw99kgxq3zwvfbwroplgjcsa
+notification-path: /v1.0/7ngicby1kcvi7glxmfqj9ab0qjo15uen
+status-path: /v1.0/bbwg0sabpeiz11czs15gfsslllu2zitb
+target-host: http://jenkins
+target-port: 80
+target-path: /generic-webhook-trigger/invoke
+target-token: "bgi/EL?qI<a:hLD"
+# target-token: /path/to/token/file.secret

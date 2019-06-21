@@ -1,0 +1,8 @@
+.dockerhub-webhook.yaml
+.dockerhub-webhook.yml
+dockerhub-webhook
+dockerhub-webhook-darwin-amd64
+dockerhub-webhook-linux-amd64
+dockerhub-webhook-windows-amd64.exe
+**/.DS_Store
+public-repository-payload.json
